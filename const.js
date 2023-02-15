@@ -44,6 +44,17 @@ const dataTest = [
       },
     ],
   },
+  {
+    grade: '6kyu',
+    tasks: [
+      {
+        name: 'Counting Duplicates',
+        description: 'Write a function that will return the count of distinct...',
+        link: 'https://telegra.ph/6kyu---Counting-Duplicates-02-15',
+        filter: 'strings',
+      },
+    ],
+  },
 ];
 
 module.exports.commands = commands;
